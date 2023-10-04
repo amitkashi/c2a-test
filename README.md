@@ -1,3 +1,11 @@
 # c2a-test
 
-run npm run open 
+First install all packages
+```bash
+npm i
+```
+
+For running the cypress app
+```bash
+npm run open 
+```
