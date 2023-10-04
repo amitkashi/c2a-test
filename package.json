@@ -2,8 +2,7 @@
   "name": "testing-pdf-with-cypress",
   "version": "1.0.0",
   "scripts": {
-    "cy:open": "./node_modules/.bin/cypress open",
-    "cy:run": "./node_modules/.bin/cypress run"
+    "open": "npx cypress open"
   },
   "keywords": [
     "cypress"
